@@ -80,7 +80,7 @@ Movies, Series, Anime and Live TV are supported.
 
   
 
-To host this project with Hugging Face, go to the [linked](https://huggingface.co/spaces/MammaMia-Urlo/CloneThisSpace/) page and follow these steps:
+To host this project with Hugging Face, go to the [linked](https://huggingface.co/spaces/aiMAmmaM/DuplicateTheSpace) page and follow these steps:
 
   
 
@@ -94,7 +94,7 @@ To host this project with Hugging Face, go to the [linked](https://huggingface.c
 
   
 
-2. Go to [linked](https://huggingface.co/spaces/MammaMia-Urlo/CloneThisSpace) page and click on three dots on the top (right) part of the screen
+2. Go to [linked](https://huggingface.co/spaces/aiMAmmaM/DuplicateTheSpace) page and click on three dots on the top (right) part of the screen
 
 3. Click Duplicate this Space
 
@@ -306,7 +306,7 @@ Check those links to get the new Domain for the providers.
 
 [ANIMEWORLD](https://t.me/AnimeWorldITA2)
 
-[CB01](https://cb01official.community/)
+[CB01](https://cb01.uno/)
 
 ## Mediaflow Proxy
 
